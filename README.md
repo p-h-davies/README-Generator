@@ -1,6 +1,6 @@
 # README Generator ![Static Badge](https://img.shields.io/badge/License:-No_License-green:badgeContent)
 
-# Table of Content
+# Table of Contents
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)

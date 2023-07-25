@@ -29,7 +29,7 @@ function renderLicenseLink(license) {
 function generateMarkdown(data) {
   return `# ${data.title} ${renderLicenseBadge(data.license)}
 
-# Table of Content
+# Table of Contents
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
