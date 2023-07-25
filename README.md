@@ -16,7 +16,7 @@ This project was designed to make creating README files easier and faster. Once 
 
 To view how this application runs, watch the video below (this example has been performed using Git Bash, however, you are free to use another terminal application).
 
-<video src="Develop/assets/application-recording.mp4" controls title="Title"></video>
+https://github.com/p-h-davies/README-Generator/assets/132735727/e0fd40ce-7e4e-4db9-af43-dc42bb8656ec
 
 ## Installation:
 To use this application, you will need to install Node.js and ensure you have a Terminator emulator Software installed (such as Terminal for Mac, or Bash for Windows). You will also need a code editor, such as VS code, to view and edit the provided README code.
